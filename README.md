@@ -6,3 +6,10 @@
 FTTx became a quite popular technology to deliver high speed connectivity specially at homes (FTTH) on which on a single fiber optics terminal you can provision and deliver internet access, IPTV and VoIP.
 
 ## How does it work?
+
+## Tested and working ONT/ONU/SFU/HGU
+
+| Manufacturer  | Vendor | Model | 
+| ------------- | ------------- |
+|TP-Link | TPLG  | XZ000-G3
+| Content Cell  | Content Cell  |
