@@ -1,0 +1,17 @@
+XX230vv1_0.7.0_3.0.0_UP_BOOT_agc3000(230719)_2023-07-19_17.47.05
+
+1. Added the ability to add EasyMesh agents to the EasyMesh controller web interface.
+2. Added support for 31-bit and 32-bit subnet masks for the WAN interface IP address.
+3. Added support for Aginet Config 3.0.
+4. Added support for IPv6 MAP-E.
+5. Added the ability to configure TWT and OFDMA functions for the 802.11ax standard to the web interface.
+6. Added automatic role detection in the EasyMesh network.
+7. Added the ability to pass-through IPv6 traffic.
+8. Added the ability to remotely configure WAN via TR-069.
+9. Added the ability to create multiple WAN connections with the same VLAN ID.
+10. Added loop detection.
+11. Improved the super administrator function.
+12. The WPS PIN code is now disabled by default.
+13. Improved stability of TR-369.
+14. Fixed compatibility issues with Huawei optical line terminals.
+15. Other improvements were made.
